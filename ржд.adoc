@@ -102,7 +102,7 @@ image::https://github.com/makar96/rzd/blob/main/оплата.jpg[width=600,link=
 --
 ====
 
-== = image:https://github.com/makar96/rzd/blob/main/ржд.png[width=60] ПОЗДРАВЛЯЕМ, ВЫ НАУЧИЛИСЬ ПОКУПАТЬ БИЛЕТЫ НА РЖД!
+== image:https://github.com/makar96/rzd/blob/main/ржд.png[width=60] ПОЗДРАВЛЯЕМ, ВЫ НАУЧИЛИСЬ ПОКУПАТЬ БИЛЕТЫ НА РЖД!
 
 == Также, рекомендуем посмотреть инструкцию по покупке билетов в приложении
 
