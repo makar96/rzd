@@ -105,5 +105,4 @@ image::https://github.com/makar96/rzd/blob/main/оплата.jpg[width=600,link=
 == = image:https://github.com/makar96/rzd/blob/main/ржд.png[width=60] ПОЗДРАВЛЯЕМ, ВЫ НАУЧИЛИСЬ ПОКУПАТЬ БИЛЕТЫ НА РЖД!
 
 == Также, рекомендуем посмотреть инструкцию по покупке билетов в приложении
-
 video::https://github.com/makar96/rzd/blob/main/Как%20купить%20билет%20на%20поезд%20в%20приложении%20РЖД.%20Инструкция.mp4[width=640]
