@@ -10,13 +10,13 @@ video::Как купить билет на поезд на сайте РЖД. И
 . В правом верхнем углу нажмите «Вход»;
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\1.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/1.jpg[width=600,link="screen.png"]
 --
 +
 . В появившемся окне переключите режим на «РЕГИСТРАЦИЯ»;
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\5.jpg[width=600,]
+image::https://github.com/makar96/rzd/blob/main/5.jpg[width=600,]
 --
 +
 . Укажите вашу почту, имя, фамилию и номер телефона;
@@ -25,18 +25,18 @@ image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\5.jpg[width=600,]
 . Дайте согласие на обработку персональных данных, нажав на пустые квадратики;
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\6.jpg[width=600]
+image::https://github.com/makar96/rzd/blob/main/6.jpg[width=600]
 --
 +
 . Перепишите защитный код с картинки в пустое поле
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\3.jpg[width=600]
+image::https://github.com/makar96/rzd/blob/main/3.jpg[width=600]
 --
 +
 . Нажмите кнопку «ЗАРЕГИСТРИРОВАТЬСЯ»
 +
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\4.jpg[width=600]
+image::https://github.com/makar96/rzd/blob/main/4.jpg[width=600]
 ====
 
 == Шаг 2. Выбор пути и даты
@@ -45,13 +45,13 @@ image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\4.jpg[width=600]
 . На главной странице сайта выберите отправление туда/обратно
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\ОТКУДА КУДА.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/ОТКУДА%20КУДА.jpg[width=600,link="screen.png"]
 --
 +
 . Укажите дату отправления
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\ДАТЫ.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/ДАТЫ.jpg[width=600,link="screen.png"]
 --
 
 . Нажмите кнопку «НАЙТИ»
@@ -64,7 +64,7 @@ image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\ДАТЫ.jpg[width
 . Из списка выберите поезд и класс (купе, св, бизнес класс и т.д.)
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\поезда.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/поезда.jpg[width=600,link="screen.png"]
 --
 ====
 
@@ -74,7 +74,7 @@ image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\поезда.jpg[w
 . Выберите нужный вагон и подберите место на схеме
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\вагон и места.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/вагон%20и%20места.jpg[width=600,link="screen.png"]
 --
 +
 . Если указывали дату обратного пути, то необходимо снова выбрать вагон и место
@@ -86,7 +86,7 @@ image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\вагон и ме
 . Следующим шагом будет внесение данных пассажиров в соответствующую форму
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\пассажир.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/пассажир.jpg[width=600,link="screen.png"]
 --
 +
 . Если пассажира два, то заполнять форму нужно и для второго пассажира
@@ -98,11 +98,11 @@ image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\пассажир.j
 . Внизу будет итоговая сумма и желаемый способ оплаты
 +
 --
-image::C:\Users\kiris\OneDrive\Рабочий стол\РЖД\оплата.jpg[width=600,link="screen.png"]
+image::https://github.com/makar96/rzd/blob/main/оплата.jpg[width=600,link="screen.png"]
 --
 ====
 
-== = image:C:\Users\kiris\OneDrive\Рабочий стол\РЖД\ржд.png[width=60] ПОЗДРАВЛЯЕМ, ВЫ НАУЧИЛИСЬ ПОКУПАТЬ БИЛЕТЫ НА РЖД!
+== = image:https://github.com/makar96/rzd/blob/main/ржд.png[width=60] ПОЗДРАВЛЯЕМ, ВЫ НАУЧИЛИСЬ ПОКУПАТЬ БИЛЕТЫ НА РЖД!
 
 == Также, рекомендуем посмотреть инструкцию по покупке билетов в приложении
 
