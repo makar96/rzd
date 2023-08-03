@@ -2,7 +2,7 @@
 
 === Посмотрите видеоинструкцию по покупке билетов в приложении РЖД
 ====
-video::https://www.youtube.com/watch?v=tE5uhhw1x3A[width=640]
+https://www.youtube.com/watch?v=tE5uhhw1x3A[width=640]
 ====
 == Шаг 1. Регистрация 
 ====
