@@ -2,6 +2,8 @@
 
 === Посмотрите видеоинструкцию по покупке билетов в приложении РЖД
 ====
+video::https://github.com/makar96/rzd/blob/main/Как%20купить%20билет%20на%20поезд%20на%20сайте%20РЖД.%20Инструкция.mp4[width=640]
+
 https://www.youtube.com/watch?v=tE5uhhw1x3A[width=640]
 ====
 == Шаг 1. Регистрация 
@@ -107,3 +109,5 @@ image::https://github.com/makar96/rzd/blob/main/оплата.jpg[width=600,link=
 == Также, рекомендуем посмотреть инструкцию по покупке билетов в приложении
 
 video::https://github.com/makar96/rzd/blob/main/Как%20купить%20билет%20на%20поезд%20в%20приложении%20РЖД.%20Инструкция.mp4[width=640]
+
+https://www.youtube.com/watch?v=Buj0aziv2bE&t=6s
